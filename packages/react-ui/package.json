@@ -1,7 +1,8 @@
 {
 	"name": "@wma/react-ui",
 	"version": "0.0.0",
-	"private": true,
+	"private": false,
+	"author": "wsma",
 	"exports": {
 		"./*": "./src/*.tsx"
 	},
